@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDocuments", "ApiDocuments\ApiDocuments.csproj", "{FB2173FA-863D-41A2-B478-DF648B0F5465}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiProcess", "ApiProcess\ApiProcess.csproj", "{3C9EC5C4-8F47-4BFA-9A83-9D4A90EEC034}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphApi", "GraphApi\GraphApi.csproj", "{6020FEBE-7C9B-44CC-9301-A299BA5989E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB2173FA-863D-41A2-B478-DF648B0F5465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2173FA-863D-41A2-B478-DF648B0F5465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2173FA-863D-41A2-B478-DF648B0F5465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2173FA-863D-41A2-B478-DF648B0F5465}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C9EC5C4-8F47-4BFA-9A83-9D4A90EEC034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C9EC5C4-8F47-4BFA-9A83-9D4A90EEC034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C9EC5C4-8F47-4BFA-9A83-9D4A90EEC034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C9EC5C4-8F47-4BFA-9A83-9D4A90EEC034}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6020FEBE-7C9B-44CC-9301-A299BA5989E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6020FEBE-7C9B-44CC-9301-A299BA5989E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6020FEBE-7C9B-44CC-9301-A299BA5989E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6020FEBE-7C9B-44CC-9301-A299BA5989E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
